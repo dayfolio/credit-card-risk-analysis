@@ -2,3 +2,9 @@ Dataset Source
 
 Kaggle Credit Card Fraud Detection Dataset:
 https://www.kaggle.com/datasets/miadul/credit-card-fraud-detection-dataset
+
+-- Dataset: 999 cardholders · 693 merchants · Jan 2019 – Dec 2020
+-- Each row is one transaction. Key fields: timestamp, amount, merchant
+-- category, cardholder home coordinates, merchant coordinates, date of
+-- birth, and a binary fraud label (is_fraud = 1 means confirmed fraud).
+
