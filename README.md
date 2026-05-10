@@ -82,7 +82,9 @@ credit-card-risk-analysis/
 │
 ├── sql/
 │   ├── 00_data_preparation.sql
+
 │   ├── 01_customer_segmentation.sql
+
 │   ├── 02_category_risk_analysis.sql
 │   ├── 03_behavior_trend_analysis.sql
 │   ├── 04_velocity_analysis.sql
