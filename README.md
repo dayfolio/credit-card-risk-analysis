@@ -86,11 +86,24 @@ credit-card-risk-analysis/
 │   ├── 02_category_risk_analysis.sql
 │   ├── 03_behavior_trend_analysis.sql
 │   ├── 04_velocity_analysis.sql
-│   └── 05_geographic_analysis.sql
+│   ├── 05_geographic_analysis.sql
+│   ├── 06_ad_hoc_analytical_queries.sql
+│   └── 07_dataset_limitations.sql
 │
 ├── outputs/
 │   ├── screenshots/
+│   │   ├── rfm_segmentation.png
+│   │   ├── category_risk_analysis.png
+│   │   ├── amount_band_fraud_rates.png
+│   │   ├── velocity_analysis.png
+│   │   ├── geographic_risk_analysis.png
+│   │   └── seasonal_spending_trends.png
+│   │
 │   └── summary_tables/
+│       ├── rfm_summary.csv
+│       ├── category_risk_summary.csv
+│       ├── velocity_flags_summary.csv
+│       └── geographic_risk_summary.csv
 │
 └── docs/
     └── project_summary.md
