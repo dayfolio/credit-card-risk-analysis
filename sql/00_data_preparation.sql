@@ -1,7 +1,23 @@
+-- =====================================================
+-- DATA PREPARATION
+-- =====================================================
+
+-- Objective:
+-- Prepare and standardize transaction-level data for downstream behavioral and fraud-risk analysis.
+
+-- Key Questions:
+-- 1. How can raw transaction data be cleaned and standardized?
+-- 2. Which derived variables improve analytical usability?
+-- 3. How can geographic and temporal variables be engineered?
+
+-- Relevance:
+-- Creates a structured analytical base for customer, fraud, behavioral, and operational risk analysis.
+
+-- =====================================================
+
 --  SECTION 0: LOAD & CLEAN
 
---  Goal: type-cast raw columns, engineer derived features,
---        and index for query performance.
+--  Goal: type-cast raw columns, engineer derived features, and index for query performance.
 
 -- ======================================================================================
 
